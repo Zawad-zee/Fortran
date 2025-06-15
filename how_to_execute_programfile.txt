@@ -1,0 +1,15 @@
+Once a program has been written using the nano editor, use the .f90 as the suffix or the 
+file extension type
+
+Now to compile the file to create an executable file in the terminal window type in the 
+below command
+
+gfortran nameofprogramfile.f90 -o anyname_exe
+
+The above command will create an executable file within the same folder with .exe as file 
+extension
+
+To execute or run the file type in the following command
+./anyname_exe.exe
+
+This command will execute the file and produce a response on the terminal window
